@@ -16,7 +16,7 @@ To build a dashboard to understand product trends over time as well as region, b
 
 ## Download dashboard
 
-[Download the E-commerce sales dashobard (.xlsx)](https://drive.google.com/file/d/1TomDY6cKTXjUv-SPxqn_HTVCahhKaelZ/view?usp=drive_link)
+[Download the E-commerce sales dashboard (.xlsx)](https://drive.google.com/file/d/1TomDY6cKTXjUv-SPxqn_HTVCahhKaelZ/view?usp=drive_link)
 
 - The dashboard sheet will open by default but supporting pivot tables and data sheets are hidden for clarity, but can be unhidden
 
