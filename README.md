@@ -34,4 +34,9 @@ To build a dashboard to understand product trends over time as well as region, b
 - There is a line chart showing the monthly revenue trend which can also be filterd by country
 - There is also a bar chart showing the top 5 countries by revenue, showing in descedning order: UK, Netherlands, Ireland, Germany, and France.
 
----
+--- 
+## Skills applied
+- Data cleaning and transformation: Handling null and invalid values, adjusting data types, removing duplicates
+- EDA: Creating pivot tables and calculated fields
+- Data visualization: Interactive dashboard made in excel
+- Tools used: SQL, Excel
